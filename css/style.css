@@ -18,6 +18,7 @@ q:before,q:after,blockquote:before,blockquote:after{ content:""; }
 }
 body{
 <<<<<<< HEAD
+<<<<<<< HEAD
         background: url("./bg.jpg") no-repeat center;
         background-size:100% 100%;
         background-attachment: fixed;
@@ -37,6 +38,10 @@ body{
     background: url("./bg.jpg") no-repeat center;
     padding-top: 25px;
 >>>>>>> 11c01e09d7660367306be4036c9c08b69bae3946
+=======
+    background: url("./bg.jpg") no-repeat center;
+    padding-top: 25px;
+>>>>>>> 11c01e09d7660367306be4036c9c08b69bae3946
 }
 div{margin: 10px;}
 .mainbody{
@@ -45,7 +50,11 @@ div{margin: 10px;}
 	height:500px;
 	border: 8px solid #EEEEEE;
 <<<<<<< HEAD
+<<<<<<< HEAD
   background-color: white;
+=======
+    background-color: white;
+>>>>>>> 11c01e09d7660367306be4036c9c08b69bae3946
 =======
     background-color: white;
 >>>>>>> 11c01e09d7660367306be4036c9c08b69bae3946
@@ -67,7 +76,10 @@ nav a {
   text-decoration: none;
   font-size: 14px;
 <<<<<<< HEAD
+<<<<<<< HEAD
   border-radius: 5px;
+=======
+>>>>>>> 11c01e09d7660367306be4036c9c08b69bae3946
 =======
 >>>>>>> 11c01e09d7660367306be4036c9c08b69bae3946
 }
@@ -83,10 +95,13 @@ nav a.active {
 }
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 /* --------- tabless --------- */
 .td_left{vertical-align:middle;}
 .td_right{vertical-align:middle;}
 
+=======
+>>>>>>> 11c01e09d7660367306be4036c9c08b69bae3946
 =======
 >>>>>>> 11c01e09d7660367306be4036c9c08b69bae3946
 /* --------- Links --------- */
@@ -97,8 +112,11 @@ nav a.active {
 
 /* --------- buttons --------- */ 
 <<<<<<< HEAD
+<<<<<<< HEAD
 button{	cursor: pointer;}
 .button1:hover{background-color: #2196F3;}
+=======
+>>>>>>> 11c01e09d7660367306be4036c9c08b69bae3946
 =======
 >>>>>>> 11c01e09d7660367306be4036c9c08b69bae3946
 .button1 {  
@@ -115,8 +133,12 @@ button{	cursor: pointer;}
     border: 1px;  
     font-weight: 300;  
 <<<<<<< HEAD
+<<<<<<< HEAD
     font-size:100% 
 
+=======
+    font-size:100%  
+>>>>>>> 11c01e09d7660367306be4036c9c08b69bae3946
 =======
     font-size:100%  
 >>>>>>> 11c01e09d7660367306be4036c9c08b69bae3946
